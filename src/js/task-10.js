@@ -8,7 +8,7 @@ const refs = {
   },
 };
 
-refs.inputNumberEl.value = '';
+// refs.inputNumberEl.value = '';
 
 const createBoxes = amount => {
   refs.boxesEl.innerHTML = '';
